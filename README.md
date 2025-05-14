@@ -1,7 +1,6 @@
 # Python-Pathfinding
 Thuật toán tìm đường trực quan hóa trên bản đồ thực tế
 -------------------------------------------------------
-Giới thiệu
 Dự án này tập trung xây dựng một giao diện web trực quan bằng Python và Streamlit để minh họa các thuật toán tìm đường trên bản đồ thực tế. Ứng dụng cho phép hiển thị và so sánh kết quả tìm đường của các thuật toán khác nhau trên dữ liệu bản đồ từ OpenStreetMap. Giao diện trực quan giúp người học dễ dàng quan sát hiệu quả và hành vi của từng thuật toán khi tìm đường.
 
 -------------------------------------------------------

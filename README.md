@@ -16,7 +16,7 @@ Các thuật toán đã triển khai
 - Dijkstra: Luôn tìm được đường đi ngắn nhất chính xác (trên đồ thị có trọng số không âm) nhưng tính toán nhiều, chạy chậm hơn trên bản đồ lớn.
 - Greedy Best-First Search: Tìm đường nhanh nhất do chỉ sử dụng thông tin heuristic tham lam; nhược điểm là không đảm bảo tối ưu (có thể bỏ qua đường đi ngắn nhất).
 - BFS: Đảm bảo tìm đường ngắn nhất về số bước trên đồ thị không trọng số; nhược điểm tốn bộ nhớ và thời gian xử lý khi không gian tìm kiếm lớn.
-- DFS: Thực hiện nhanh nhưng không đảm bảo tìm được đường ngắn nhất, dễ lặp lại và kém hiệu quả trên đồ thị lớn.
+- DFS: Thực hiện nhanh nhưng không đảm bảo tìm được đường ngắn nhất, dễ lặp lại và kém hiệu quả trên đồ thị lớn, thời gian tìm được giải pháp rất dài.
 
 -------------------------------------------------------
 Dữ liệu và thư viện sử dụng

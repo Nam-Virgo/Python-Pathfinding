@@ -13,6 +13,8 @@ Các thuật toán đã triển khai
 
 Ưu nhược điểm chính của các thuật toán
 - A*: Sử dụng hàm heuristic giúp tìm đường nhanh và chính xác cao; nhược điểm là phụ thuộc vào chất lượng hàm heuristic.
+  ![astar_1](https://github.com/user-attachments/assets/86432fae-02d8-42b2-a4f8-f0b88a697954)
+
 - Dijkstra: Luôn tìm được đường đi ngắn nhất chính xác (trên đồ thị có trọng số không âm) nhưng tính toán nhiều, chạy chậm hơn trên bản đồ lớn.
 - Greedy Best-First Search: Tìm đường nhanh nhất do chỉ sử dụng thông tin heuristic tham lam; nhược điểm là không đảm bảo tối ưu (có thể bỏ qua đường đi ngắn nhất).
 - BFS: Đảm bảo tìm đường ngắn nhất về số bước trên đồ thị không trọng số; nhược điểm tốn bộ nhớ và thời gian xử lý khi không gian tìm kiếm lớn.

@@ -25,8 +25,8 @@ Các thuật toán đã triển khai
   ![bfs_1](https://github.com/user-attachments/assets/b0cbca19-514d-43cd-8fe8-27898f541a12)
 
 - DFS: Thực hiện nhanh nhưng không đảm bảo tìm được đường ngắn nhất, dễ lặp lại và kém hiệu quả trên đồ thị lớn, thời gian tìm được giải pháp rất dài.
-  ![dfs_1](https://github.com/user-attachments/assets/72c87bbf-266e-45b7-a739-1dba52c50849)
 
+  ![dfs_1](https://github.com/user-attachments/assets/72c87bbf-266e-45b7-a739-1dba52c50849)
 -------------------------------------------------------
 Dữ liệu và thư viện sử dụng
 - Dữ liệu bản đồ: Sử dụng bản đồ thực tế từ OpenStreetMap.
